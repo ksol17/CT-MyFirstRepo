@@ -1,2 +1,5 @@
-x, y, z = "apple", "banana", "cherry"
-print(x, y, z)
+cookies =  "Chocolate cookies"
+print(cookies)
+
+cookies = 12 
+print(cookies) 
